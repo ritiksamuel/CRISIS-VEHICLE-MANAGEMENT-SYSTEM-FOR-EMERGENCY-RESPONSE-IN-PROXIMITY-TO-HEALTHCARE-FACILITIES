@@ -52,10 +52,6 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ![Picture7](https://github.com/user-attachments/assets/68f91c02-b141-422d-b93d-522105bfdb1e)
 
-## Accuracy:
-![](Training-Accuracy.png)
-
-![](Testing-Accuracy.png)
 ## Results:
 The **expected results** from the **Crisis Vehicle Management System** include:  
 
