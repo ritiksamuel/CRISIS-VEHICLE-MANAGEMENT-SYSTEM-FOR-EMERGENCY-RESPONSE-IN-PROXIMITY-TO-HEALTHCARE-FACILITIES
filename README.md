@@ -40,7 +40,7 @@ The software requirements specify the system’s functionality and serve as a fo
 - **IDE:** Eclipse
 
 ## System Architecture:
-![Picture2](https://github.com/user-attachments/assets/b3c22482-c62d-4c33-957e-8af2e43fa17c)
+
 
 ## Prediction Output:
 ![](Prediction1.png)
@@ -76,42 +76,44 @@ Efficiency: Automating the process of fake news detection saves time and effort 
 Scalability: The model can be scaled to analyze massive datasets and could be deployed in real-time applications such as social media platforms, news websites, or browser extensions.
 
 ## References
-[1]         Shlok Gilda, “Evaluating machine learning algorithms for fake news detection, ” Wilayah Persekutuan Putrajaya, Malaysia, 2017 IEEE 15th Student conference on research and development (SCOReD)
 
-[2]         M. F. Mridha, Ashfia Jannat Keya, Md. Abdul Hamid, “A Comprehensive Review on Fake News Detection With Deep Learning,” 2019 
+[1] M. A. Usman, N. Y. Philip, and C. Politis, “5G enabled mobile healthcare for ambulances,” in *2019 IEEE Globecom Workshops (GC Wkshps)*, pp. 1–6, 2019.  
 
-[3]       H. Allcott and M. Gentzkow, "Social media and fake news in the 2016 election", J. Econ. Perspect., vol. 31, no. 2, pp. 36-211, 2017.
+[2] S. K. Bhoi and P. M. Khilar, “Vehihealth: An emergency routing protocol for vehicular ad hoc network to support healthcare system,” *Journal of Medical Systems*, vol. 40, pp. 1–12, 2016.  
 
-[4]	T. Rasool, W. H. Butt, A. Shaukat and M. U. Akram, "Multi-label fake news detection using multi-layered supervised learning", Proc. 11th Int. Conf. Comput. Autom. Eng., pp. 73-77, 2019.
+[3] G. M. et al., “A novel mobile telemedicine system for ambulance transport. Design and evaluation,” in *The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*, vol. 2, pp. 3080–3083, IEEE, 2004.  
 
-[5]	X. Zhang and A. A. Ghorbani, "An overview of online fake news: Characterization detection and discussion", Inf. Process. Manage., vol. 57, no. 2, Mar. 2020.
+[4] B. Lei, P. Yang, T. Wang, S. Chen, and D. Ni, “Relational-regularized discriminative sparse learning for Alzheimer’s disease diagnosis,” *IEEE Transactions on Cybernetics*, vol. 47, no. 4, pp. 1102–1113, 2017.  
 
-[6]	Abdullah-All-Tanvir, E. M. Mahir, S. Akhter and M. R. Huq, "Detecting fake news using machine learning and deep learning algorithms", Proc. 7th Int. Conf. Smart Comput. Commun. (ICSCC), pp. 1-5, Jun. 2019.
+[5] A. Pratap and S. K. Das, “Stable matching based resource allocation for service provider’s revenue maximization in 5G networks,” *IEEE Transactions on Mobile Computing*, pp. 1–1, 2021.  
 
-[7]	K. Shu, A. Sliva, S. Wang, J. Tang and H. Liu, "Fake news detection on social media: A data mining perspective", ACM SIGKDD Explorations Newslett., vol. 19, no. 1, pp. 22-36, 2017.
+[6] G. Zheng, C.-Y. Wang, V. Friderikos, and M. Dohler, “High mobility multi-modal e-health services,” in *2018 IEEE International Conference on Communications (ICC)*, pp. 1–7, IEEE, 2018.  
 
-[8]       R. Oshikawa, J. Qian and W. Y. Wang, "A survey on natural language processing for fake news detection", arXiv:1811.00770, 2018. 
+[7] A. E. Cetinkaya, M. Akin, and S. Sagiroglu, “Improving performance of federated learning based medical image analysis in non-IID settings using image augmentation,” in *2021 International Conference on Information Security and Cryptology (ISCTURKEY)*, pp. 69–74, IEEE, 2021.  
 
-[9]       S. B. Parikh and P. K. Atrey, "Media-rich fake news detection: A survey", Proc. IEEE Conf. Multimedia Inf. Process. Retr. (MIPR), pp. 436-441, Apr. 2018.
+[8] D. C. Nguyen et al., “Federated learning for smart healthcare: A survey,” *ACM Computing Surveys (CSUR)*, vol. 55, no. 3, pp. 1–37, 2022.  
 
-[10]     A. Habib, M. Z. Asghar, A. Khan, A. Habib and A. Khan, "False information detection in online content and its role in decision making: A systematic literature review", Social Netw. Anal. Mining, vol. 9, no. 1, pp. 1-20, Dec. 2019.
+[9] J. Xu, B. S. Glicksberg, C. Su, P. Walker, J. Bian, and F. Wang, “Federated learning for healthcare informatics,” *Journal of Healthcare Informatics Research*, vol. 5, pp. 1–19, 2021.  
 
-[11]   M. K. Elhadad, K. F. Li and F. Gebali, "Fake news detection on social media: A systematic survey", Proc. IEEE Pacific Rim Conf. Commun. Comput. Signal Process. (PACRIM), pp. 1-8, Aug. 2019.
+[10] M. R. H. Apu et al., “ECG arrhythmia classification using 1D CNN leveraging the resampling technique and Gaussian mixture model,” in *2021 Joint 10th ICIEV and 2021 5th icIVPR*, pp. 1–8, 2021.  
 
-[12]    A. Bondielli and F. Marcelloni, "A survey on fake news and rumour detection techniques", Inf. Sci., vol. 497, pp. 38-55, Sep. 2019.
+[11] Y. S. et al., “Service migration or task rerouting: A two-timescale online resource optimization for MEC,” *IEEE Transactions on Wireless Communications*, pp. 1–1, 2023.  
 
-[13]     P. Meel and D. K. Vishwakarma, "Fake news rumor information pollution in social media and web: A contemporary survey of state-of-the-arts challenges and opportunities", Expert Syst. Appl., vol. 153, Sep. 2020.
+[12] A. Hammoud, H. Otrok, A. Mourad, and Z. Dziong, “On-demand fog federations for horizontal federated learning in IoV,” *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3062–3075, 2022.  
 
-[14]    K. Sharma, F. Qian, H. Jiang, N. Ruchansky, M. Zhang and Y. Liu, "Combating fake news: A survey on identification and mitigation techniques", ACM Trans. Intell. Syst. Technol., vol. 10, no. 3, pp. 1-42, May 2019.
+[13] W. W. et al., “Location-privacy-aware service migration in mobile edge computing,” in *2020 IEEE WCNC*, pp. 1–6, IEEE, 2020.  
 
-[15]  X. Zhou and R. Zafarani, "A survey of fake news: Fundamental theories detection methods and opportunities", ACM Comput. Surv., vol. 53, no. 5, pp. 1-40, 2020.
+[14] Q. Yuan, J. Li, H. Zhou, T. Lin, G. Luo, and X. Shen, “A joint service migration and mobility optimization approach for vehicular edge computing,” *IEEE Transactions on Vehicular Technology*, vol. 69, no. 8, pp. 9041–9052, 2020.  
 
-[16]   B. Collins, D. T. Hoang, N. T. Nguyen and D. Hwang, "Trends in combating fake news on social media—A survey", J. Inf. Telecommun., vol. 5, no. 2, pp. 247-266, 2021.
+[15] B. Yang, P. Han, C. Feng, Y. Liu, and L. Guo, “Service migration with high-order MDP in mobile edge computing,” in *2021 13th International Conference on Communication Software and Networks (ICCSN)*, pp. 206–212, 2021.  
 
-[17]    A. Zubiaga, A. Aker, K. Bontcheva, M. Liakata and R. Procter, "Detection and resolution of rumours in social media: A survey", ACM Comput. Surveys, vol. 51, no. 2, pp. 1-36, Jun. 2018.
+[16] A. M. Seid et al., “Multi-agent federated reinforcement learning for resource allocation in UAV-enabled Internet of Medical Things networks,” *IEEE Internet of Things Journal*, pp. 1–1, 2023.  
 
-[18]   H. Ahmed, I. Traore and S. Saad, "Detecting opinion spams and fake news using text classification", Secur. Privacy, vol. 1, no. 1, pp. e9, Jan. 2018.
+[17] E. Bozkaya, “Digital twin-assisted and mobility-aware service migration in mobile edge computing,” *Computer Networks*, vol. 231, p. 109798, 2023.  
 
-[19]  H. Ahmed, I. Traore and S. Saad, "Detection of online fake news using N-gram analysis and machine learning techniques", Proc. Int. Conf. Intell. Secure Dependable Syst. Distrib. Cloud Environ., pp. 127-138, 2017.
+[18] R. S. Antunes, C. Andre da Costa, A. Kúderle, I. A. Yari, and B. Eskofier, “Federated learning for healthcare: Systematic review and architecture proposal,” *ACM Transactions on Intelligent Systems and Technology (TIST)*, vol. 13, no. 4, pp. 1–23, 2022.  
 
-[20]  B. Bhutani, N. Rastogi, P. Sehgal and A. Purwar, "Fake news detection using sentiment analysis", Proc. 12th Int. Conf. Contemp. Comput. (IC), pp. 1-5, Aug. 2019.
+[19] P. K. Bishoyi and S. Misra, “Towards energy-and cost-efficient sustainable MEC-assisted healthcare systems,” *IEEE Transactions on Sustainable Computing*, vol. 7, no. 4, pp. 958–969, 2022.  
+
+[20] E. W. et al., “Location-based service for presence system using Haversine method,” in *2017 ICITech Conference*, pp. 1–4, 2017.  
+
