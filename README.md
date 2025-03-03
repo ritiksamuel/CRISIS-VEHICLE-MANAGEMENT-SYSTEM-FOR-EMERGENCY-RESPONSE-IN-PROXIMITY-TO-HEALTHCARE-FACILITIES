@@ -41,6 +41,7 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ## System Architecture:
 
+![picture4](https://github.com/user-attachments/assets/6cfb74c2-7738-4f15-8568-3dd435766ace)
 
 ## Prediction Output:
 ![](Prediction1.png)
