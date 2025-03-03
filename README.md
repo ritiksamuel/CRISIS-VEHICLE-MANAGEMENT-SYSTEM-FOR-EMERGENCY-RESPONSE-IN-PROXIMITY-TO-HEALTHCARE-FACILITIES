@@ -52,6 +52,14 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ![Picture7](https://github.com/user-attachments/assets/68f91c02-b141-422d-b93d-522105bfdb1e)
 
+## Coding Snippets :
+
+![AES algorithm](https://github.com/user-attachments/assets/b7a73c9f-e300-4599-aafb-42f39f8de566)
+
+![java part](https://github.com/user-attachments/assets/98bf7ee6-0148-4b8d-8857-62a3072e6ce6)
+
+![userlogin](https://github.com/user-attachments/assets/05a3a406-3def-49c2-8bf9-9ff7ecf0f13d)
+
 ## Results:
 The **expected results** from the **Crisis Vehicle Management System** include:  
 
