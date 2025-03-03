@@ -52,28 +52,37 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ![](Testing-Accuracy.png)
 ## Results:
-The results of the fake news classification model will be evaluated based on several metrics:
+The **expected results** from the **Crisis Vehicle Management System** include:  
 
-Accuracy: Measures the overall correctness of the model.
+- **Improved Emergency Response:** Faster ambulance dispatch and reduced response times.  
 
-Precision: The fraction of relevant instances among the retrieved instances (i.e., the percentage of correctly predicted fake news articles).
+- **Enhanced Coordination:** Seamless communication between users, ambulances, and hospitals.  
 
-Recall: The fraction of relevant instances that have been retrieved (i.e., the model’s ability to detect all fake news articles).
+- **Data Security:** Secure handling of patient data using AES encryption.  
 
-F1-Score: The harmonic mean of precision and recall, providing a balance between the two.
+- **User Satisfaction:** A user-friendly interface for patients, medical staff, and emergency responders.  
 
-Confusion Matrix: A table used to describe the performance of the classification model in terms of true positives, true negatives, false positives, and false negatives.
+- **Efficient Resource Utilization:** Optimized ambulance allocation and hospital readiness.  
+
+- **Scalable System:** Adaptable for future enhancements and integration with emerging technologies.  
+
 
 ## Impact:
-Combating Misinformation: By using this model, users can quickly detect fake news and prevent the spread of misinformation.
+### **Impact of the Crisis Vehicle Management System**  
 
-Promoting Trust: The model can help restore trust in online news platforms by providing users with a way to easily verify the authenticity of news articles.
+- **Faster Emergency Response:** Reduces delays in ambulance dispatch and hospital preparedness, improving survival rates in critical situations.  
 
-Boosting Media Literacy: This tool can also serve as an educational platform, helping users understand the markers of fake news and improving media literacy.
+- **Improved Patient Outcomes:** Ensures timely medical interventions by providing hospitals with real-time patient data before arrival.  
 
-Efficiency: Automating the process of fake news detection saves time and effort compared to manual verification.
+- **Enhanced Coordination:** Strengthens communication between users, ambulance services, and hospitals, minimizing miscommunication and errors.  
 
-Scalability: The model can be scaled to analyze massive datasets and could be deployed in real-time applications such as social media platforms, news websites, or browser extensions.
+- **Increased Data Security:** Protects sensitive patient information through AES encryption, ensuring compliance with healthcare privacy standards.  
+
+- **Optimized Resource Utilization:** Helps hospitals and ambulance services manage resources efficiently, reducing overcrowding and wait times.  
+
+- **Higher User Satisfaction:** Provides a seamless and user-friendly platform for emergency requests and tracking, making the process more accessible.  
+
+- **Scalability and Future Growth:** The system can integrate with emerging technologies like AI and IoT to further enhance emergency response efficiency.  
 
 ## References
 
