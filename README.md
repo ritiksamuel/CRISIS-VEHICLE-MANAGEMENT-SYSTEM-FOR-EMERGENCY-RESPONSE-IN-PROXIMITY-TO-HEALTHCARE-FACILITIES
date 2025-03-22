@@ -52,6 +52,11 @@ The software requirements specify the system’s functionality and serve as a fo
 
 ![Picture7](https://github.com/user-attachments/assets/68f91c02-b141-422d-b93d-522105bfdb1e)
 
+![Database](https://github.com/user-attachments/assets/397a9417-3722-471d-aedc-9c8f92052b91)
+
+![Patient Details](https://github.com/user-attachments/assets/0dcb1e5c-e11b-46d1-a9c5-15dff2dbb7ec)
+
+
 ## Coding Snippets :
 
 ![AES algorithm](https://github.com/user-attachments/assets/b7a73c9f-e300-4599-aafb-42f39f8de566)
